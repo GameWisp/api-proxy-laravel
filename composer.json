@@ -27,6 +27,6 @@
             "ThinKingMik\\ApiProxy\\": "src/"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "license": "MIT"
 }
